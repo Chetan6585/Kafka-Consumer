@@ -1,4 +1,4 @@
-package com.albersons.inventory.kafka.consumer.config;
+package com.albersons.inventory.kafka.consumer;
 
 import com.albersons.inventory.kafka.consumer.inventory.Inventory;
 import org.springframework.boot.autoconfigure.kafka.KafkaProperties;
